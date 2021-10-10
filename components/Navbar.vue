@@ -3,13 +3,13 @@
     <span class="absolute left-0">Logo Name</span>
     <ul class="flex flex-row">
       <li class="px-2">
-        Base du versus
+        Home
       </li>
       <li class="px-2">
-        Jeux
+        Planning tournoi
       </li>
       <li class="px-2">
-        Tournois
+        Games
       </li>
     </ul>
   </nav>
